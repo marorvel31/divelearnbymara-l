@@ -40,14 +40,18 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 - **Un navegador web** (Chrome, Firefox, Edge)
 - **Opcional**: Un servidor local como Live Server en VS Code.
 
+** In case that you will run on aws, choose the folder website_mar_aws in case you will run local choose website_mar_local | ** En caso de que vaya a ejecutar en aws, elija la carpeta website_mar_aws, en caso de que vaya a ejecutar local elija  website_mar_local
 ---
 
 ### 📌 Step-by-Step Installation | Instalación Paso a Paso
 
+
 1️⃣ **Clone the repository | Clonar el repositorio**
 ```sh
-git clone https://github.com/your-user/divelearn.git
-cd divelearn
+git clone https://github.com/marorvel31/divelearnbymara-l.git
+cd divelearnmara-l
+cd website_mar_aws | cd website_mar_local*
+Depending on your selection move to the right directory |  Dependiendo de tu selección, muevete al directorio correcto
 ```
 
 2️⃣ **Install dependencies | Instalar dependencias**
