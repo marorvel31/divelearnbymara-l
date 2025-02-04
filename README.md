@@ -18,12 +18,9 @@ Este script maneja la interacción con la API, permitiendo cargar, agregar y mos
 
 🔹 Key Functions | Funciones Clave
 
-fetchContacts() → Fetches the list of contacts from the API.
-Obtiene la lista de contactos desde la API.
-renderContacts(data) → Displays the contacts in the HTML table.
-Muestra los contactos en la tabla HTML.
-addContact(event) → Sends a new contact to the API.
-Envía un nuevo contacto a la API.
+      fetchContacts() → Fetches the list of contacts from the API.|Obtiene la lista de contactos desde la API.
+      renderContacts(data) → Displays the contacts in the HTML table. | Muestra los contactos en la tabla HTML.
+      addContact(event) → Sends a new contact to the API. | Envía un nuevo contacto a la API.
 ---
 
 # 🚀 Installation and Execution Guide | Guía de Instalación y Ejecución
